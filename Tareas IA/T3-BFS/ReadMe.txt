@@ -1,0 +1,1 @@
+El programa está hecho en python, 3.5 se debe correr con un formato igual a la entrada que dio el profesor, separando cada uno de los datos en una lista.
